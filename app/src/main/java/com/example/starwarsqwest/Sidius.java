@@ -13,6 +13,7 @@ public class Sidius {
     protected int ulta; // способность
     protected int bitmapId; // id картинки
     protected Bitmap bitmap; // картинка
+    protected int[] screen = {1,2,3,4,5,6,7,8,9};
 
 
 }
